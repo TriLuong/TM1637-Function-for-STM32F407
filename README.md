@@ -7,4 +7,4 @@ I used STM32F407 and TM1637 to display LED 7 Segment.
 
 I build library for TM1637 and use it to code for ARM
 
-Referenced: Datasheet of TM1637, and "TM1637_function.c" my teacher coded for PIC 16f877A by CCS sofware.
+Referenced: Datasheet of TM1637, and "TM1637_function.c" my teacher coded for PIC 16F877A by CCS sofware.
