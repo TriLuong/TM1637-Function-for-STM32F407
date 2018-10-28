@@ -1,6 +1,6 @@
 # TM1637-Function-for-STM32F407
 
-I used STM32F407 and TM1637 to display LED 7 Segment.
+The hardware I used STM32F407 and TM1637 to display LED 7 Segment.
 
 - PIN PE3 connect to CLK of TM1637
 - PIN PE5 connect to DIO of TM1637
